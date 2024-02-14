@@ -1,1 +1,1 @@
-console.log("For the YOLO Bagde")
+console.log("For the YOLO Bagde");
